@@ -1,7 +1,7 @@
 import torch
 import torchaudio as ta
-# from chatterbox.tts import ChatterboxTTS
-from chatterbox.tts_turbo import ChatterboxTurboTTS
+from chatterbox.tts import ChatterboxTTS
+# from chatterbox.tts_turbo import ChatterboxTurboTTS
 import re
 
 AUDIO_PROMPT_PATH = "sample_1.wav"

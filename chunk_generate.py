@@ -39,7 +39,7 @@ def split_script(filename, min_chars=250):
 
 
 print("🚀 Initializing Chatterbox TTS model...")
-model = ChatterboxTurboTTS.from_pretrained(device="cuda")
+model = ChatterboxTTS.from_pretrained(device="cuda")
 print("✅ Model loaded on CUDA")
 
 segmented_texts = split_script("full_script.txt")

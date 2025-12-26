@@ -1,0 +1,5 @@
+runpod/pytorch:2.4.0-py3.11-cuda12.4.1-devel-ubuntu22.04
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKyndCkxeyWcow71bePIa/CbQgEeagMIJfoJe8TrBOV+ aadilsalam360@gmail.com
+
+ssh root@213.173.98.101 -p 14857

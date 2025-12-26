@@ -5,7 +5,7 @@ import torchaudio
 # -----------------------------
 # Configuration
 # -----------------------------
-NUM_SEGMENTS = 2               # number of segment_*.wav files
+NUM_SEGMENTS = 28               # number of segment_*.wav files
 MAX_PAUSE_SEC = 0.7            # safety cap
 MIN_PAUSE_SEC = 0.25           # minimum human pause
 
